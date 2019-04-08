@@ -1,0 +1,12 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /payup
+
+cupSize: F
+age: 20
+content: "cupSize:${cupSize},age:${age}"
+
+girl:
+  cupSize: B
+  age: 28
