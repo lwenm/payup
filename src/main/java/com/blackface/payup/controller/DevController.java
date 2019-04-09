@@ -1,4 +1,4 @@
-package com.blackface.payup;
+package com.blackface.payup.controller;
 
 import com.blackface.payup.config.GirlPropertiesConfig;
 import org.springframework.beans.factory.annotation.Autowired;
