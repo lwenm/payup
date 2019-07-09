@@ -9,8 +9,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: 'Qwer.1322806298.'
-    url: jdbc:mysql://47.99.77.244:3306/boot?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    password: ''
+    url: jdbc:mysql://XXXXXXXXXXXXXXX:3306/boot?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
   jpa:
       show-sql: true
       hibernate:
