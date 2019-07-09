@@ -19,10 +19,10 @@ spring:
 
 #redis配置
 redis:
-  host: 47.99.77.244
+  host: XXXXXXXXXX
   port: 6379
   timeout: 3
-  password: zxcv132280.
+  password: XXXXXXXXXXXX
   poolMaxTotal: 20
   poolMaxIdle: 10
   poolMaxWait: 3
